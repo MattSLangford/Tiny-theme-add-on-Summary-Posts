@@ -7,7 +7,8 @@ Change the default home page layout to show summary posts instead of full posts.
 
 ## Installation
 
-1. Install from the Micro.blog plugins page
+1. Verify that you are using **Tiny Theme 1.5.1** or later
+2. Install from the Micro.blog plugins page
 
 That's it!
 
