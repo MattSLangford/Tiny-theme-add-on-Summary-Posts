@@ -8,7 +8,10 @@
 			{{ if .Title }}
 			<h2 class="post-title p-name"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
 			<div class="p-summary">
-				<p>{{ .Summary | safeHTML }}</p>
+				{{ .Summary | safeHTML }}
+				{{ if .Truncated }}
+					<a class="read-more" href="{{ .Permalink }}">Read More</a>
+				{{ end }}
 			</div>
 			{{ else }}
 			<div class="e-content">
