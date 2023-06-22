@@ -1,2 +1,5 @@
-Params:
-	read_more_text: "Read More"
+{
+	  "params": {
+		"read_more_text": "Read More"
+	  }
+}
