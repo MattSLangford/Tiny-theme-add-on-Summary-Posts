@@ -6,8 +6,6 @@
 		{
 		  "field": "params.read_more_text",
 		  "label": "Set Read More Text",
-		  "type": "string",
-		  "placeholder": "Read More"
-		}
+		  "type": "string"		}
 	  ]
 }
