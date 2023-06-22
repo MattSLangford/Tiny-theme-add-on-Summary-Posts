@@ -11,7 +11,7 @@
 		<div class="p-summary">
 			{{ .Summary | safeHTML }}
 			{{ if .Truncated }}
-				<p><a class="read-more" href="{{ .Permalink }}">Read More</a></p>
+				<p><a class="read-more" href="{{ .Permalink }}">{{ .Site.Params.read_more_text | safeHTML }}</a></p>
 			{{ end }}
 		</div>
 		{{ else }}
