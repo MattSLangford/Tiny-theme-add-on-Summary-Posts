@@ -1,5 +1,5 @@
 # Tiny-theme-add-on-Summary-Posts
-Change the default home page layout to show summary posts instead of full posts.
+Change the default home page and category page layout to show summary posts instead of full posts.
 
 **NOTE**: This plugin is designed for use with the Tiny Theme on Micro.blog.
 
@@ -15,4 +15,4 @@ That's it!
 
 ### How to Use
 
-In Micro.blog, if your post has a title, it will be truncated (shown as a summary) on the home page automatically. Optionally, you can manually define the truncation point by inserting `<!--more-->` in your post.
+In Micro.blog, if your post has a title, it will be truncated (shown as a summary) on the home page and category pages automatically. Optionally, you can manually define the truncation point by inserting `<!--more-->` in your post.
