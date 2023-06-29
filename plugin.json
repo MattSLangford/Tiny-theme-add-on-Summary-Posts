@@ -1,7 +1,7 @@
 {
 	"version": "2.0",
 	"title": "Tiny theme add-on: Summary Posts",
-	"description": "Changes the home page of Tiny theme to show summary posts instead of full-length posts.",
+	"description": "Changes the home page of Tiny theme to show summary posts instead of full-length posts. Requires Tiny Theme 1.6.1 or greater.",
 	"fields": [
 		{
 		  "field": "params.read_more_text",
