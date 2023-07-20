@@ -19,4 +19,4 @@ In Micro.blog, if your post has a title, it will be truncated (shown as a summar
 
 ### Support Development
 
-[Support the development](https://paypal.me/mattslangford) of this theme. See it in action at mattlangford.com.
+[Support the development](https://paypal.me/mattslangford) of this theme. See it in action at [mattlangford.com](https://www.mattlangford.com).
