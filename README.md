@@ -16,3 +16,7 @@ That's it!
 ### How to Use
 
 In Micro.blog, if your post has a title, it will be truncated (shown as a summary) on the home page and category pages automatically. Optionally, you can manually define the truncation point by inserting `<!--more-->` in your post.
+
+### Support Development
+
+[Support the development](https://paypal.me/mattslangford) of this theme. See it in action at mattlangford.com.
