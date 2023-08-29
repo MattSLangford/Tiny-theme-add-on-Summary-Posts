@@ -17,8 +17,8 @@ That's it!
 
 In Micro.blog, if your post has a title, it will be truncated (shown as a summary) on the home page and category pages automatically. Optionally, you can manually define the truncation point by inserting `<!--more-->` in your post.
 
-### Support Development
+### Do you value this plugin?
 
 Tiny Theme and its plugins are provided free of charge to Micro.blog users. I do not receive payment from Micro.blog in any way. If you'd like to help offset expenses and ensure the future of Tiny and its plugins, please consider supporting its development.
 
-<a href="https://www.buymeacoffee.com/mattlangford" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[Make a Donation](https://donate.stripe.com/5kAeV7gWk9fk7aE7ss) in any amount. Thank you!
